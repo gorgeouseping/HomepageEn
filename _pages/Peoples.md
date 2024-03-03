@@ -1,48 +1,47 @@
 ---
 layout: archive
-title: "学生培养"
+title: "Current Students"
 permalink: /Peoples/
 author_profile: true
 redirect_from:
   - /resume
 ---
-# 在读
-### 博士研究生
-* 孙文涛 (2023)
-* 韩汀 (2023)
-* 马津 (2021)
-* 刘小雪 (2018)
+<!--# Current Students-->
+### PhD Students
+* Wentao Sun (2023)
+* Ting Han (2023)
+* Jin Ma (2021)
+* Xiaoxue Liu (2018)
 
-### 硕士研究生
-+ 王朝磊 (2023)
-+ 杜雨萌 (2023)
-+ 谢相依 (2022)
-+ 张帅 (2021)
-+ 陈钧 (2020)
+### Master students
++ Chaolei Wang (2023)
++ Yumeng Du (2023)
++ Xiangyi Xie (2022)
++ Shuai Zhang (2021)
++ Jun Chen (2020)
 
-# 已毕业
-### 博士研究生
-
-+ Naftaly Wambugua (2022)（肯尼亚）
-+ 罗智鹏 (2020) （全国激光雷达优秀博士论文奖、福建省优秀博士学位论文）
-+ 丰慧芳 (2019)
-+ 黄鹏頔 (2017)  （福建省优秀博士学位论文）
+# Previous Students 
+### PhD Students
++ Naftaly Wambugua (2022) (Kenya)
++ Zhipeng Luo (2020) (National LiDAR Outstanding Doctoral Dissertation Award, Fujian Provincial Outstanding Doctoral Dissertation)
++ Huifang Feng (2019)
++ Pengdi Huang (2017) (Excellent doctoral dissertation in Fujian Province)
   
-### 硕士研究生
-+ 李国艳 (2021)
-+ 沙正川 (2021)
-+ 林豪佳 (2021)
-+ 曾洪彬 (2020)
-+ 林伟生 (2020)
-+ 高剑岚 (2020)
-+ 吴荣仁 (2019)
-+ 张正 (2019)
-+ 洪志友 (2019)
-+ 杨成喆 (2019)
-+ 刘箭锋 (2018)
-+ 李根 (2018)
-+ 刘昱龙 (2017)
-+ 张海荣 (2016)
-+ 郭锡朝 (2016)
-+ 翁升霞 (2016)
-+ 吴若棽 (2015)
+### Master students
++ Guoyan Li (2021)
++ Zhengchuan Sha (2021)
++ Jiahao Lin (2021)
++ Hongbin Zeng (2020)
++ Weisheng Lin (2020)
++ Jianlan Gao (2020)
++ Rongren Wu (2019)
++ Zheng Zhang (2019)
++ Zhiyou Hong (2019)
++ Chengzhe Yang (2019)
++ Jianfeng Liu (2018)
++ Gen Li (2018)
++ Yulong Liu (2017)
++ Hairong Zhang (2016)
++ Xichao Guo (2016)
++ Shengxia Weng (2016)
++ Ruoshen Wu (2015)
