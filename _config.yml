@@ -86,7 +86,7 @@ author:
   location         : "Zhuhai, Guangdong"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "chenyp79@mail.sysu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/gorgeouseping"
+  github           : # "https://github.com/gorgeouseping"
   google_plus      :
   keybase          :
   instagram        :
