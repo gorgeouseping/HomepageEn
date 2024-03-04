@@ -17,8 +17,13 @@ author_profile: true
 Journal Articles
 ======
 ## Selected Publications in 2023
++ __Y Chen__, Shuai Zhang*, Weisheng Lin, Shuhang Zhang*, Wuming zhang, [Learning point cloud context information based on 3D transformer for more accurate and efficient classification]( https://doi.org/10.1111/phor.12469)，_The Photogrammetric Record_, 2023(SCI, IF=2.4)
++ 韩汀，陈思宇，马津，蔡国榕，张吴明，__陈一平*__, [可学习深度位置编码引导的车前图像道路可行驶区域检测](10.13203/j.whugis20230252), 1-17, 2023.《武汉大学学报(信息科学版)》
++ Sun, Wentao#, Zhipeng Luo#, __Yiping Chen\*__, Huxiong Li, José Lopes Marcato, Wesley Nunes Gonçalves and Jonathan Li \*, [A click-based interactive segmentation network for handling MLS point clouds](https://ieeexplore.ieee.org/document/10285459), _IEEE Geoscience and Remote Sensing_, 2023. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
 + Chen, Jun, __Yiping Chen*__, and Cheng Wang. "[Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation.](https://ieeexplore.ieee.org/abstract/document/10217158)" _IEEE Geoscience and Remote Sensing Letters (2023)_.
 +	Li, Yuan, Long Zhao, __Y Chen*__, Na Zhang, Hongchao Fan, and Zhenxin Zhang. "[3D LiDAR and multi-technology collaboration for preservation of built heritage in China: A review.](https://www.sciencedirect.com/science/article/pii/S1569843222003442)" _International Journal of Applied Earth Observation and Geoinformation 116 (2023): 103156._ [JAG] (SCI, IF=7.672, JCR 1 Top)
++	X Liu, __Y Chen*__, C Wang, K Tan, J Li. [A joint deep learning network of point clouds and multi-view for roadside objects classification from LiDAR point clouds](https://doi.org/10.1016/j.isprsjprs.2022.08.022), _ISPRS Journal of Photogrammetry and Remote Sensing_, 2023. [JAG] (SCI, IF=7.672, JCR 1 Top)
++	Feng, Hu, Lingfei Ma \*, Yongtao Yu, __Yiping Chen\*__ and Jonathan Li. [SCL-GCN: Stratified Contrastive Learning Graph Convolution Network for pavement crack detection from mobile LiDAR point clouds.](https://doi.org/10.1016/j.jag.2023.103248) _Int. J. Appl. Earth Obs. Geoinformation_ 118 (2023): 103248.
 
 ## Selected Publications in 2022
 +	__Y Chen__，Z Luo，W Li，H Lin，A Nurunnabi，Y Lin，C Wang，X Zhang，J Li, [WGNet: Wider Graph convolution Networks for 3D Point Cloud Classification with Local Dilated Connecting and Context-Aware](https://www.sciencedirect.com/science/article/pii/S030324342200112X)，_International Journal of Applied Earth Observation and Geoinformation_,2022.[JAG] (SCI, IF=7.672, JCR 1 Top
