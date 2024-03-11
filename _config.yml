@@ -11,7 +11,7 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "gorgeouseping"
 description              : &description "personal description"
-url                      : https://gorgeouseping.github.io/HomepageEn/
+url                      : https://gorgeouseping.github.io/HomepageEn
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gorgeouseping/gorgeouseping.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
